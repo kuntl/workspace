@@ -23,6 +23,7 @@ D:\IdeaProject\workspaceForCrm\crm\src\main\java\com\kunt\crm\workbench\dao\Acti
 D:\IdeaProject\workspaceForCrm\crm\src\main\java\com\kunt\crm\workbench\dao\TranDao.java
 D:\IdeaProject\workspaceForCrm\crm\src\main\java\com\kunt\crm\workbench\web\controller\ActivityController.java
 D:\IdeaProject\workspaceForCrm\crm\src\main\java\com\kunt\crm\workbench\dao\TranHistoryDao.java
+D:\IdeaProject\workspaceForCrm\crm\src\main\java\com\kunt\crm\vo\ShowClueAndActivityRelationVO.java
 D:\IdeaProject\workspaceForCrm\crm\src\main\java\com\kunt\crm\web\listener\SysInitListener.java
 D:\IdeaProject\workspaceForCrm\crm\src\main\java\com\kunt\crm\workbench\dao\ContactsDao.java
 D:\IdeaProject\workspaceForCrm\crm\src\main\java\com\kunt\crm\workbench\dao\CustomerDao.java
