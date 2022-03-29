@@ -100,6 +100,9 @@ public class ActivityController extends HttpServlet {
         map.put("ar",ar);
         PrintJson.printJsonObj(response,map);
 
+
+
+
     }
 
     private void deleteRemark(HttpServletRequest request, HttpServletResponse response) {
